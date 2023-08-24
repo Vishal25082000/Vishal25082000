@@ -1,4 +1,4 @@
-[![MasterHead](https://www.multidots.com/wp-content/uploads/2018/01/Full_stack_developer-1-1.jpg)
+![MasterHead](https://www.multidots.com/wp-content/uploads/2018/01/Full_stack_developer-1-1.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate full Stack Web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/PowerlessUnawareIncatern-size_restricted.gif">
