@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Updated SOON......](Update SOON......)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT&JAVA**
+- 💬 Ask me about ** JAVA,HTML,CSS,JAVASCRIPT & React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
