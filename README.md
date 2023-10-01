@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at (Update SOON......)
 
-- 💬 Ask me about ** JAVA,HTML,CSS,JAVASCRIPT & React**
+- 💬 Ask me about ** JAVA HTML CSS JAVASCRIPT & REACT**
+
+- 😅 And Certified Copy Paster 🤣
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
