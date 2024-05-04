@@ -1,4 +1,4 @@
-![MasterHead](https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg)
+![MasterHead](https://www.shutterstock.com/image-illustration/programmer-wallpaper-260nw-2357726401.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate full Stack Web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
