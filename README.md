@@ -15,7 +15,7 @@
 ## ⚡ About Me
 - 👨‍💻 Front-End Developer & MERN Stack Explorer  
 - 🎓 MCA Graduate – Maharaja Agrasen Himalayan Garhwal University  
-- 🎮 BGMI Gamer → [its_ghost Gaming](https://www.youtube.com/@its_ghostgaming)  
+- 🎮 BGMI Gamer  
 - 🚀 Love creating projects, learning new tech & contributing to Open Source  
 
 ---
@@ -59,9 +59,8 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishalkumar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vishalkumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@its_ghostgaming"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" /></a>
+  <a href="linkedin.com/in/vishal-kumar-8a17b01b3"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="wickyrajput001@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
