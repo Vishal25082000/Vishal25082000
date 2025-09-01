@@ -36,12 +36,12 @@
 
 ## 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal25082000&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal25082000&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal25082000&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal25082000&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
@@ -65,4 +65,4 @@
 
 ---
 
-⭐ From [Vishal Kumar](https://github.com/YOUR_GITHUB_USERNAME)
+⭐ From [Vishal Kumar](https://github.com/Vishal25082000)
