@@ -1,4 +1,4 @@
-![MasterHead](https://techsteamcenter.com/wp-content/uploads/2023/08/computer-language.webp)
+![MasterHead](https://wallpapers.com/images/hd/4k-programming-java-script-logo-3hcns7bt28muj7ih.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate full Stack Web developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
