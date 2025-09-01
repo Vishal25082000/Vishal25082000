@@ -29,7 +29,7 @@
 
 ## 🎮 GitHub Gamification
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishal25082000&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
