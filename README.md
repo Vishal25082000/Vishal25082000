@@ -1,59 +1,69 @@
-<!-- Profile README for Vishal Kumar -->
+<!-- Vishal Kumar | Interactive GitHub Profile README -->
 
-<!-- Animated Typing Effect -->
+<!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Vishal+Kumar;Front-End+Developer;MERN+Stack+Learner;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishal+Kumar;Front-End+Developer;MERN+Stack+Learner;Open+Source+Contributor;Tech+%2B+Gaming+Enthusiast" alt="Typing Animation" />
 </h1>
 
-<!-- Banner -->
+<!-- Waving Hand -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner2.gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 </p>
 
 ---
 
-## 🚀 About Me
-👨‍💻 I'm **Vishal Kumar**, a passionate **Front-End Developer** exploring the **MERN Stack**.  
-🎓 Completed **MCA** from *Maharaja Agrasen Himalayan Garhwal University*.  
-🎮 I also run a **BGMI Gaming YouTube channel**: [its_ghost Gaming](https://www.youtube.com/@its_ghostgaming).  
-💡 Love building **real-world projects** and experimenting with **new tech**.  
+## ⚡ About Me
+- 👨‍💻 Front-End Developer & MERN Stack Explorer  
+- 🎓 MCA Graduate – Maharaja Agrasen Himalayan Garhwal University  
+- 🎮 BGMI Gamer → [its_ghost Gaming](https://www.youtube.com/@its_ghostgaming)  
+- 🚀 Love creating projects, learning new tech & contributing to Open Source  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode,java&perline=7" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎮 GitHub Gamification
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkumar&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar&theme=radical" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📊 My Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkumar&theme=react-dark&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" />
+</p>
+
+---
+
+## 🌀 Fun Zone
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishalkumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vishalkumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@its_ghostgaming" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishalkumar"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vishalkumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@its_ghostgaming"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-## ✨ Fun Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-⭐️ From [Vishal Kumar](https://github.com/vishalkumar)
-
+⭐ From [Vishal Kumar](https://github.com/YOUR_GITHUB_USERNAME)
